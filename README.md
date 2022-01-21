@@ -10,7 +10,7 @@
 ## Infos générales
 Pour ce brief, nous allons faire des regressions linéaires simples, multiples et polynomiales sur différents datasets avec et sans Scikit-learn (bibliothèque Python destinée à l’apprentissage automatique. Construite sur les bases de NumPy, SciPy et matplotlib).
 ## Regression linéaire simple sur le dataset reg_simple.csv sans Sklearn
-
+<img src="https://github.com/PaulineSanchez/premier-mod-le-IA/blob/main/reglineairesimple.png/>
 
 ## Regression linéaire multiple sur le dataset boston_house_prices.csv sans sklearn
 ## Regression linéaire polynomiale sur les datasets Position_Salaire.csv et qualite_vin_rouge.csv sans Sklearn
