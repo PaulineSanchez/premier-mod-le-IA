@@ -9,6 +9,8 @@
 7. [Regression linéaire polynomiale sur les datasets Position_Salaire.csv et qualite_vin_rouge.csv avec **Sklearn**]
 ## Infos générales
 Pour ce brief, nous allons faire des regressions linéaires simples, multiples et polynomiales sur différents datasets avec et sans Scikit-learn (bibliothèque Python destinée à l’apprentissage automatique. Construite sur les bases de NumPy, SciPy et matplotlib).
+- Le jupyter notebook ModeleIA correspond au Jupyter Notebook où nous faisons les régressions linéaires sans scikit-learn.
+- Le jupyter notebook MIA_ScikitLearn correspond au Jupyter Notebook où nous faisons les régressions linéaires avec scikit-learn.
 ## Regression linéaire simple sur le dataset reg_simple.csv sans Sklearn
 ![alt text](https://github.com/PaulineSanchez/premier-mod-le-IA/blob/main/reglineairesimple.png) 
 
