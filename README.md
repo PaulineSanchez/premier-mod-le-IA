@@ -66,4 +66,4 @@ Pour ce brief, nous allons faire des regressions linéaires simples, multiples e
 
 ![alt text](https://github.com/PaulineSanchez/premier-mod-le-IA/blob/main/reglineairepolynomialesklearnvin.png)
 
-> Résultat de la régression polynomiale effectuée avec Sklearn à partir du dataset "qualite_vin_rouge". On remarque qu'avec Scikit-learn la régression linéaire polynomiale n'est toujours pas possible. 
+> Résultat de la régression polynomiale effectuée avec Sklearn à partir du dataset "qualite_vin_rouge". On remarque qu'avec Scikit-learn la régression polynomiale n'est toujours pas possible. 
